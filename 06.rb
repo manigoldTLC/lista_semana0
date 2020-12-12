@@ -12,5 +12,3 @@ def triangulo(base)
         con +=1
     end
 end
-
-triangulo(6)
